@@ -1,0 +1,29 @@
+html{
+    background-color: wheat;
+}
+.sidebar{
+    text-align: left;
+    text-decoration: solid;
+    
+}
+.footer{
+    max-width: 200px;
+    text-align: relative;
+    left: 100%;
+  }
+  .footer ul img{
+    width: 420px;
+    margin-inline: 40px;
+    border-radius: 100px;
+    position: relative;
+    left: 185%;
+
+  }
+  .hero-content img{
+    width: 420px;
+    position: relative;
+    left: 165%;
+  }
+  .container{
+    
+  }
